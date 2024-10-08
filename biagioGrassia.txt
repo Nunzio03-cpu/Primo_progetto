@@ -1,0 +1,5 @@
+Nome: Biagio
+Cognome: Grassia
+Data: 14/07/1995
+Film preferito: "il signore degli anelli"
+colore preferito: verde
