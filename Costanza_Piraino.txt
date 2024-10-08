@@ -1,0 +1,5 @@
+Nome: Costanza
+Cognome: Piraino
+Data: 24/04/1994
+Film preferito: "Harry potter"
+Colore preferito: Lilla
