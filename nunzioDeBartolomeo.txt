@@ -3,3 +3,4 @@ Cognome: De Bartolomeo
 Data: 12/06/2003
 Film preferito: "Super Fantozzi"
 Colore preferito: verde
+Squadra calcio: Milan
